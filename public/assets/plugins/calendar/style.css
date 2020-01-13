@@ -1,0 +1,30 @@
+.fc-toolbar {
+    display: -webkit-inline-box;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+}
+
+.fc-center{
+    font-size: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+table {
+    background-color: #f3f4f5;
+}
+
+.fc-scroller a{
+    color:#000;
+}
+
+#addBooking{
+	width: 100%;
+}
+
+.listscroll {
+    max-height: 305px !important;
+}
+
+.input-group-addon {
+    cursor: pointer;
+}
